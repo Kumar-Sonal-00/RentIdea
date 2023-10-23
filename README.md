@@ -1,6 +1,6 @@
 # RentIdea
 
-## Welcome to Our Full-Stack Product Rental Web Application! 
+## Welcome to Our Full-Stack Product Rental Web Application ! 
 
 Have you ever wanted to effortlessly share your belongings with others and, in turn, borrow items you need? Our web application makes this possible. We've combined a set of cutting-edge technologies to create a seamless user experience for you.
 
