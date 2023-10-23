@@ -1,10 +1,10 @@
 # RentIdea
 
-## Welcome to Our Full-Stack Product Rental Web Application! 🚀
+## Welcome to Our Full-Stack Product Rental Web Application! 
 
 Have you ever wanted to effortlessly share your belongings with others and, in turn, borrow items you need? Our web application makes this possible. We've combined a set of cutting-edge technologies to create a seamless user experience for you.
 
-### What You Can Do:
+ What You Can Do:
 
 **Share Your Items for Rent:** With our application, you can easily add your own products to the platform, making them available for others to rent. It's a fantastic way to put your belongings to work when you're not using them.
 
